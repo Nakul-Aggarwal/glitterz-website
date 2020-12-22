@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/glitterz-website/static/css/main.da02d762.chunk.css",
-    "main.js": "/glitterz-website/static/js/main.1d3499a0.chunk.js",
-    "main.js.map": "/glitterz-website/static/js/main.1d3499a0.chunk.js.map",
+    "main.js": "/glitterz-website/static/js/main.660f1b8f.chunk.js",
+    "main.js.map": "/glitterz-website/static/js/main.660f1b8f.chunk.js.map",
     "runtime-main.js": "/glitterz-website/static/js/runtime-main.5be9f6fc.js",
     "runtime-main.js.map": "/glitterz-website/static/js/runtime-main.5be9f6fc.js.map",
     "static/js/2.d5a75db2.chunk.js": "/glitterz-website/static/js/2.d5a75db2.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.5be9f6fc.js",
     "static/js/2.d5a75db2.chunk.js",
     "static/css/main.da02d762.chunk.css",
-    "static/js/main.1d3499a0.chunk.js"
+    "static/js/main.660f1b8f.chunk.js"
   ]
 }
