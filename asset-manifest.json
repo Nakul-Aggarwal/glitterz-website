@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/glitterz-website/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/glitterz-website/static/js/main.19c9eb39.chunk.js",
+    "main.js.map": "/glitterz-website/static/js/main.19c9eb39.chunk.js.map",
+    "runtime-main.js": "/glitterz-website/static/js/runtime-main.5c60b333.js",
+    "runtime-main.js.map": "/glitterz-website/static/js/runtime-main.5c60b333.js.map",
+    "static/js/2.99c9d698.chunk.js": "/glitterz-website/static/js/2.99c9d698.chunk.js",
+    "static/js/2.99c9d698.chunk.js.map": "/glitterz-website/static/js/2.99c9d698.chunk.js.map",
+    "static/js/3.33993b9e.chunk.js": "/glitterz-website/static/js/3.33993b9e.chunk.js",
+    "static/js/3.33993b9e.chunk.js.map": "/glitterz-website/static/js/3.33993b9e.chunk.js.map",
+    "index.html": "/glitterz-website/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/glitterz-website/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.99c9d698.chunk.js.LICENSE.txt": "/glitterz-website/static/js/2.99c9d698.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/glitterz-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c60b333.js",
+    "static/js/2.99c9d698.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.19c9eb39.chunk.js"
+  ]
+}
