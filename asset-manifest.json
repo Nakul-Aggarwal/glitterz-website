@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8859d75.chunk.css",
-    "main.js": "/static/js/main.b3c95c42.chunk.js",
-    "main.js.map": "/static/js/main.b3c95c42.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.99d12260.js",
-    "runtime-main.js.map": "/static/js/runtime-main.99d12260.js.map",
-    "static/js/2.d5a75db2.chunk.js": "/static/js/2.d5a75db2.chunk.js",
-    "static/js/2.d5a75db2.chunk.js.map": "/static/js/2.d5a75db2.chunk.js.map",
-    "static/js/3.53a05c4a.chunk.js": "/static/js/3.53a05c4a.chunk.js",
-    "static/js/3.53a05c4a.chunk.js.map": "/static/js/3.53a05c4a.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b8859d75.chunk.css.map": "/static/css/main.b8859d75.chunk.css.map",
-    "static/js/2.d5a75db2.chunk.js.LICENSE.txt": "/static/js/2.d5a75db2.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "/static/media/boxicons.cbd149c5.ttf",
-    "static/media/hero-img.436b051a.svg": "/static/media/hero-img.436b051a.svg",
-    "static/media/icofont.min.css": "/static/media/icofont.dad3accb.woff"
+    "main.css": "/glitterz-website/static/css/main.da02d762.chunk.css",
+    "main.js": "/glitterz-website/static/js/main.b3c95c42.chunk.js",
+    "main.js.map": "/glitterz-website/static/js/main.b3c95c42.chunk.js.map",
+    "runtime-main.js": "/glitterz-website/static/js/runtime-main.5be9f6fc.js",
+    "runtime-main.js.map": "/glitterz-website/static/js/runtime-main.5be9f6fc.js.map",
+    "static/js/2.d5a75db2.chunk.js": "/glitterz-website/static/js/2.d5a75db2.chunk.js",
+    "static/js/2.d5a75db2.chunk.js.map": "/glitterz-website/static/js/2.d5a75db2.chunk.js.map",
+    "static/js/3.53a05c4a.chunk.js": "/glitterz-website/static/js/3.53a05c4a.chunk.js",
+    "static/js/3.53a05c4a.chunk.js.map": "/glitterz-website/static/js/3.53a05c4a.chunk.js.map",
+    "index.html": "/glitterz-website/index.html",
+    "static/css/main.da02d762.chunk.css.map": "/glitterz-website/static/css/main.da02d762.chunk.css.map",
+    "static/js/2.d5a75db2.chunk.js.LICENSE.txt": "/glitterz-website/static/js/2.d5a75db2.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/glitterz-website/static/media/boxicons.cbd149c5.ttf",
+    "static/media/hero-img.436b051a.svg": "/glitterz-website/static/media/hero-img.436b051a.svg",
+    "static/media/icofont.min.css": "/glitterz-website/static/media/icofont.dad3accb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.99d12260.js",
+    "static/js/runtime-main.5be9f6fc.js",
     "static/js/2.d5a75db2.chunk.js",
-    "static/css/main.b8859d75.chunk.css",
+    "static/css/main.da02d762.chunk.css",
     "static/js/main.b3c95c42.chunk.js"
   ]
 }
