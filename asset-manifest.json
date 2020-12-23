@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/glitterz-website/static/css/main.da02d762.chunk.css",
-    "main.js": "/glitterz-website/static/js/main.660f1b8f.chunk.js",
-    "main.js.map": "/glitterz-website/static/js/main.660f1b8f.chunk.js.map",
+    "main.js": "/glitterz-website/static/js/main.f00b046a.chunk.js",
+    "main.js.map": "/glitterz-website/static/js/main.f00b046a.chunk.js.map",
     "runtime-main.js": "/glitterz-website/static/js/runtime-main.5be9f6fc.js",
     "runtime-main.js.map": "/glitterz-website/static/js/runtime-main.5be9f6fc.js.map",
     "static/js/2.d5a75db2.chunk.js": "/glitterz-website/static/js/2.d5a75db2.chunk.js",
@@ -13,12 +13,13 @@
     "static/css/main.da02d762.chunk.css.map": "/glitterz-website/static/css/main.da02d762.chunk.css.map",
     "static/js/2.d5a75db2.chunk.js.LICENSE.txt": "/glitterz-website/static/js/2.d5a75db2.chunk.js.LICENSE.txt",
     "static/media/boxicons.min.css": "/glitterz-website/static/media/boxicons.cbd149c5.ttf",
+    "static/media/hero-img.436b051a.svg": "/glitterz-website/static/media/hero-img.436b051a.svg",
     "static/media/icofont.min.css": "/glitterz-website/static/media/icofont.dad3accb.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.5be9f6fc.js",
     "static/js/2.d5a75db2.chunk.js",
     "static/css/main.da02d762.chunk.css",
-    "static/js/main.660f1b8f.chunk.js"
+    "static/js/main.f00b046a.chunk.js"
   ]
 }
