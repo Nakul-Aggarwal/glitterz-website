@@ -20,7 +20,7 @@ import client5 from '../img/clients/client-5.png'
 import client6 from '../img/clients/client-6.png'
 import client7 from '../img/clients/client-7.png'
 import client8 from '../img/clients/client-8.png'
-
+import glitterzLogo from '../img/Glitterz_Logo.png'
 
 
 
@@ -48,7 +48,8 @@ const imageResource = {
     "client5" : client5,
     "client6" : client6,
     "client7" : client7,
-    "client8" : client8
+    "client8" : client8,
+    "glitterzLogo" : glitterzLogo
 };
 
 
